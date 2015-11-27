@@ -1,6 +1,3 @@
-clone:
-  path: github.com/pchaussalet/deploy-test
-
 build:
   image: node
   commands:
